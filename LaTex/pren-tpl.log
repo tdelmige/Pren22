@@ -1,0 +1,14 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdftex 2014.9.26)  26 SEP 2014 10:55
+entering extended mode
+**C:/Users/David/Documents/PREN/LaTeX*Template/pren-tpl.cls
+("C:/Users/David/Documents/PREN/LaTeX Template/pren-tpl.cls"
+! Undefined control sequence.
+l.1 \ProvidesClass
+                  {pren-tpl}
+? 
+! Emergency stop.
+l.1 \ProvidesClass
+                  {pren-tpl}
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!
